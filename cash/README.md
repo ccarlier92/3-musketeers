@@ -13,16 +13,16 @@ Convert one currency to other ones in real time
 
 
 ## How to use it
-$ cash <amount> <from> <to>
-$ cash <options>
+'$ cash <amount> <from> <to>'
+'$ cash <options>'
   
   
 ## Options
-$ --set -s    // Set default currencies
+'$ --set -s    // Set default currencies'
 
 ## Examples
-$ cash 10 usd eur pln
-$ cash --set usd aud
+'$ cash 10 usd eur pln'
+'$ cash --set usd aud'
 
 
 ## How does it work?
