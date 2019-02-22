@@ -13,9 +13,10 @@ Convert one currency to other ones in real time
 
 
 ## How to use it
-'$ cash <amount> <from> <to>'
-'$ cash <options>'
-  
+''
+$ cash <amount> <from> <to>
+$ cash <options>
+'' 
   
 ## Options
 '$ --set -s    // Set default currencies'
